@@ -1,0 +1,16 @@
+# Hostname: textsecure-service.whispersystems.org
+# Amazon AWS Global Accelerator
+13.248.0.0/14
+76.223.0.0/17
+
+# Hostname: storage.signal.org
+# Google
+172.217.0.0/16
+
+# Hostname: cdn.signal.org
+# Amazon CloudFront CDN
+13.224.0.0/14
+
+# Hostname: cdn2.signal.org
+# Cloudflare CDN
+104.16.0.0/12
