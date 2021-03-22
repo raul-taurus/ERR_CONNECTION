@@ -12,8 +12,9 @@
 151.101.0.0/16
 
 # EdgeCast CDN
-# 152.192.0.0/13
+152.192.0.0/13 # abs.twimg.com, Twitter
 72.21.80.0/20
+192.229.128.0/17 # pbs.twimg.com, Twitter
 
 # New Relic
 162.247.240.0/22
