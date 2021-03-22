@@ -22,6 +22,9 @@
 # Wikimedia
 198.35.26.0/23
 
+# Skysilk
+216.246.208.0/23 # api.parler.com
+
 # Dropbox
 108.160.160.0/20
 
