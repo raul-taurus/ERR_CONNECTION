@@ -40,6 +40,7 @@
 
 # Automattic
 192.0.64.0/18 # secure.gravatar.com
+2a04:fa80::/29 # secure.gravatar.com
 
 # Internet Archive
 207.241.224.0/20 # web.archive.org
