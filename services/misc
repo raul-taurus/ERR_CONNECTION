@@ -12,6 +12,7 @@
 2606:4700::/32
 
 # Fastly CDN
+# https://api.fastly.com/public-ip-list
 151.101.0.0/16
 
 # EdgeCast CDN
