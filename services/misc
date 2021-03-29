@@ -15,6 +15,9 @@
 # https://api.fastly.com/public-ip-list
 151.101.0.0/16
 
+# Akamai
+23.32.0.0/11
+
 # EdgeCast CDN
 152.192.0.0/13      # abs.twimg.com, Twitter
 72.21.80.0/20       # platform.twitter.com
