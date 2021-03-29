@@ -17,6 +17,7 @@
 
 # Akamai
 23.32.0.0/11
+2600:1400::/24
 
 # EdgeCast CDN
 152.192.0.0/13      # abs.twimg.com, Twitter
