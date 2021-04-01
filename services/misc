@@ -24,6 +24,9 @@
 72.21.80.0/20       # platform.twitter.com
 192.229.128.0/17    # pbs.twimg.com, Twitter
 
+# DigitalOcean
+45.55.0.0/16
+
 # New Relic
 162.247.240.0/22
 
