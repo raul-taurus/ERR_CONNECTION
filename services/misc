@@ -15,6 +15,10 @@
 # https://api.fastly.com/public-ip-list
 151.101.0.0/16
 
+# Akamai
+23.32.0.0/11
+2600:1400::/24
+
 # EdgeCast CDN
 152.192.0.0/13      # abs.twimg.com, Twitter
 72.21.80.0/20       # platform.twitter.com
@@ -22,6 +26,9 @@
 
 # New Relic
 162.247.240.0/22
+
+# proinity GmbH
+2a0b:4d00::/29
 
 # Wikimedia
 198.35.26.0/23
