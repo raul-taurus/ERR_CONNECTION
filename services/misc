@@ -20,7 +20,7 @@
 2600:1400::/24
 
 # EdgeCast CDN
-152.192.0.0/13      # abs.twimg.com, Twitter
+152.199.24.0/24      # abs.twimg.com, Twitter
 72.21.80.0/20       # platform.twitter.com
 192.229.128.0/17    # pbs.twimg.com, Twitter
 
