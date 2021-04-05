@@ -5,6 +5,9 @@
 # d/b/a Verizon Business UUNET63
 63.64.0.0/10
 
+# Interactive Brokers Corp
+64.190.192.0/21
+
 # Cloudflare CDN
 104.16.0.0/12
 162.158.0.0/15
