@@ -1,10 +1,10 @@
 export class Cidr {
 
     static ipv4_to_b32(ipv4: string) {
-        return ipv4.split('.').map(s => parseInt(s).toString(2).padStart(8, '0')).join('');
+        return ipv4.split('.').map(s => parseInt(s).toString(2).padStart(8, '0').substr(0, 8)).join('');
     }
 
-    static b32_to_ipv4(b32: string) {
+    private static b32_to_ipv4(b32: string) {
         const ss = b32.split(/(\d{8})/);
         return [ss[1], ss[3], ss[5], ss[7]].map(s => parseInt(s, 2)).join('.');
     }
