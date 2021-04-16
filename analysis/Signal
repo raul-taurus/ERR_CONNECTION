@@ -10,6 +10,7 @@
 # Hostname: cdn.signal.org
 # Amazon CloudFront CDN
 13.224.0.0/14
+65.8.0.0/16
 99.84.0.0/16
 
 # Hostname: cdn2.signal.org
