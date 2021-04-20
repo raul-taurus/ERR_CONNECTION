@@ -63,6 +63,9 @@
 # Internet Archive
 207.241.224.0/20 # web.archive.org
 
+# Microsoft onedrive
+13.107.42.0/23
+
 # Microsoft Skype
 40.112.0.0/13
 40.120.0.0/14
