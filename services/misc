@@ -84,3 +84,5 @@
 # Atlassian Network Services, Inc
 104.192.136.0/21
 
+# Telegram Messenger Network
+149.154.0.0/16
